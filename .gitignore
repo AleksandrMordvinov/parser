@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/xlam
+/src/xlam/Copy_1.js
+/src/xlam/data.js
 
 # testing
 /coverage
